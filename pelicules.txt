@@ -2,4 +2,8 @@ HEAD
 peli2
 peli1
 origin/main
+HEAD
 peli3
+
+peli4
+8539a09 (peli4)
